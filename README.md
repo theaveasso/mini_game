@@ -1,2 +1,2 @@
 # mini_game
-Mini game Create using Python
+Classic mini games using Python
